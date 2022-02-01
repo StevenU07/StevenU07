@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning about operating systems
+- 👯 I’m looking to collaborate on a fire mixtape jk
+- 🤔 I’m looking for help with proof based math
+- 💬 Ask me about my streaming career
+- 📫 How to reach me: twitch.tv/starrysteven or @ungbelievable__
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I used to be tiktok famous when Genshin Impact came out
 
 <!--
 **StevenU07/StevenU07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
